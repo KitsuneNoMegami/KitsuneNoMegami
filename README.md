@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
   <img 
-    src="./following-cow.gif" 
+    src="images/following-cow.gif" 
     width="90" 
     height="50"/>
   <a href="https://git.io/typing-svg" style="display: inline-block; vertical-align: middle;">
@@ -11,7 +11,7 @@
     />
   </a>
   <img 
-    src="./rowling-cow.gif" 
+    src="images/rowling-cow.gif" 
     width="50" 
     height="50"
   />
@@ -31,3 +31,6 @@
 ## Can code with/on
 
 [![My Skills](https://skillicons.dev/icons?i=linux,idea,vscode,vscodium,git,github,gitlab,discord&perline=4)](https://skillicons.dev)
+
+# 
+<img src="./swing.gif"/>

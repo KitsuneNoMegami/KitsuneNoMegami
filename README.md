@@ -24,13 +24,20 @@
 
 
 ## Languages I know 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,bash,html,css,js,py,java,sqlite)](https://skillicons.dev)
-</br>
-![Top Langs](https://github-readme-stats-silk-zeta-79.vercel.app/api/top-langs/?username=KitsuneNoMegami&theme=nightowl&layout=compact)
+<div align="center">
+  
+  [![My Skills](https://skillicons.dev/icons?i=c,cs,bash,html,css,js,py,java,sqlite)](https://skillicons.dev)
+  </br>
+  </br>
+  ![Top Langs](https://github-readme-stats-silk-zeta-79.vercel.app/api/top-langs/?username=KitsuneNoMegami&theme=nightowl&layout=compact)
+</div>
 
 ## Can code with/on
-
+<div align="center">
+  
 [![My Skills](https://skillicons.dev/icons?i=linux,idea,vscode,vscodium,git,github,gitlab,discord&perline=4)](https://skillicons.dev)
+
+</div>
 
 # 
 <div align="center">

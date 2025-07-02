@@ -33,4 +33,6 @@
 [![My Skills](https://skillicons.dev/icons?i=linux,idea,vscode,vscodium,git,github,gitlab,discord&perline=4)](https://skillicons.dev)
 
 # 
-<img src="./swing.gif"/>
+<div align="center">
+  <img src="images/swing.gif"/>
+</div>

@@ -26,7 +26,7 @@
 ## Languages I know 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,bash,html,css,js,py,java,sqlite)](https://skillicons.dev)
 </br>
-[![Top Langs](https://github-readme-stats-silk-zeta-79.vercel.app/api/top-langs/?username=KitsuneNoMegami&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-silk-zeta-79.vercel.app/api/top-langs/?username=KitsuneNoMegami&theme=nightowl&layout=compact)
 
 ## Can code with/on
 

@@ -18,7 +18,7 @@
     </h1>
 </div>
 
-<p>Hi I'm Beth 👋​</p>
+<p>Hi ! I'm Beth 👋​</p>
 <p>🎓 I'm a French Student trying to make my code work and my plants survive. I'm succeeding at one of them. 
 <br> 🎮 Skills include: infinite scrolling, deleting code that worked, and pretending to read documentation​</p>
 

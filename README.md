@@ -23,13 +23,13 @@
 <br> 🎮 Skills include: infinite scrolling, deleting code that worked, and pretending to read documentation​</p>
 
 ### Projects 
-* [Games in C](./Games-in-C)
+* [Games in C](https://github.com/KitsuneNoMegami/Games-in-C.git)
   * A collection of simple games developed in C
-* [Donjon & Dragons](./DnD)
+* [Donjon & Dragons](https://github.com/KitsuneNoMegami/DnD.git)
   * A console-based Java game inspired by Dungeons & Dragons 
-* [Sudoku Solver](./Sudoku)
+* [Sudoku Solver](https://github.com/KitsuneNoMegami/Sudoku.git)
   * A simple Sudoku solver for the console in Assembly langage
-* [Pac-Man Python](KitsuneNoMegami/Py-man)
+* [Pac-Man Python](https://github.com/KitsuneNoMegami/Py-man.git)
   * A simple Pacman in Python
 
 ## Languages I know 

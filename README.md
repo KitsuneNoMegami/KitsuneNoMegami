@@ -22,6 +22,15 @@
 <p>🎓 I'm a French Student trying to make my code work and my plants survive. I'm succeeding at one of them. 
 <br> 🎮 Skills include: infinite scrolling, deleting code that worked, and pretending to read documentation​</p>
 
+### Projects 
+* [Games in C](./Games-in-C)
+  * A collection of simple games developed in C
+* [Donjon & Dragons](./DnD)
+  * A console-based Java game inspired by Dungeons & Dragons 
+* [Sudoku Solver][./Sudoku)
+  * A simple Sudoku solver for the console in Assembly langage
+* [Pac-Man Python](./Py-man)
+  * A simple Pacman in Python
 
 ## Languages I know 
 <div align="center">

@@ -29,7 +29,7 @@
   * A console-based Java game inspired by Dungeons & Dragons 
 * [Sudoku Solver](./Sudoku)
   * A simple Sudoku solver for the console in Assembly langage
-* [Pac-Man Python](./Py-man)
+* [Pac-Man Python](KitsuneNoMegami/Py-man)
   * A simple Pacman in Python
 
 ## Languages I know 

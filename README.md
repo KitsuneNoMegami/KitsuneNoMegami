@@ -27,7 +27,7 @@
   * A collection of simple games developed in C
 * [Donjon & Dragons](./DnD)
   * A console-based Java game inspired by Dungeons & Dragons 
-* [Sudoku Solver][./Sudoku)
+* [Sudoku Solver](./Sudoku)
   * A simple Sudoku solver for the console in Assembly langage
 * [Pac-Man Python](./Py-man)
   * A simple Pacman in Python

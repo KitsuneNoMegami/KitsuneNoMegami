@@ -26,9 +26,9 @@ Hi ! I'm Beth 👋​
 
 In French
 
-*🎓Je suis une étudiante en informatique qui essaie de faire fonctionner mon code et faire survivre mes plantes. Je réussi a l'un des deux*
+*🎓 Je suis une étudiante en informatique qui essaie de faire fonctionner mon code et faire survivre mes plantes. Je réussi a l'un des deux*
 
-*🎮Skills : scrolling infini, suppression de code qui fonctionne et faire semblant de lire la documentation.*
+*🎮 Skills : scrolling infini, suppression de code qui fonctionne et faire semblant de lire la documentation.*
 
 
 ### Projects 
@@ -53,7 +53,7 @@ In French
 ## Can code with/on
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=linux,idea,vscode,vscodium,git,github,gitlab,discord&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,idea,vscode,vscodium,git,github,gitlab,godotd&perline=4)](https://skillicons.dev)
 
 </div>
 

@@ -53,7 +53,7 @@ In French
 ## Can code with/on
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=linux,idea,vscode,vscodium,git,github,gitlab,godotd&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,idea,vscode,vscodium,git,github,gitlab,godot&perline=4)](https://skillicons.dev)
 
 </div>
 

@@ -18,9 +18,18 @@
     </h1>
 </div>
 
-<p>Hi ! I'm Beth 👋​</p>
-<p>🎓 I'm a French Student trying to make my code work and my plants survive. I'm succeeding at one of them. 
-<br> 🎮 Skills include: infinite scrolling, deleting code that worked, and pretending to read documentation​</p>
+Hi ! I'm Beth 👋​
+
+🎓 I'm a French Student trying to make my code work and my plants survive. I'm succeeding at one of them. 
+
+🎮 Skills include: infinite scrolling, deleting code that worked, and pretending to read documentation​
+
+In French
+
+*🎓Je suis une étudiante en informatique qui essaie de faire fonctionner mon code et faire survivre mes plantes. Je réussi a l'un des deux*
+
+*🎮Skills : scrolling infini, suppression de code qui fonctionne et faire semblant de lire la documentation.*
+
 
 ### Projects 
 * [Games in C](https://github.com/KitsuneNoMegami/Games-in-C.git)

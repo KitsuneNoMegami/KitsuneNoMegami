@@ -24,22 +24,21 @@ Hi ! I'm Beth 👋​
 
 🎮 Skills include: infinite scrolling, deleting code that worked, and pretending to read documentation​
 
-In French
-
-*🎓 Je suis une étudiante en informatique qui essaie de faire fonctionner mon code et faire survivre mes plantes. Je réussi a l'un des deux*
-
-*🎮 Skills : scrolling infini, suppression de code qui fonctionne et faire semblant de lire la documentation.*
+*En français :*
+> 🎓 Je suis étudiante en informatique et j'essaie de faire fonctionner mon code et faire survivre mes plantes. Je réussis à faire l'un.
+> 🎮 Compétences : scrolling infini, suppression de code fonctionnel et faire semblant de lire la documentation.
 
 
-### Projects 
-* [Games in C](https://github.com/KitsuneNoMegami/Games-in-C.git)
-  * A collection of simple games developed in C
-* [Donjon & Dragons](https://github.com/KitsuneNoMegami/DnD.git)
-  * A console-based Java game inspired by Dungeons & Dragons 
-* [Sudoku Solver](https://github.com/KitsuneNoMegami/Sudoku.git)
-  * A simple Sudoku solver for the console in Assembly langage
-* [Pac-Man Python](https://github.com/KitsuneNoMegami/Py-man.git)
-  * A simple Pacman in Python
+## Projects
+
+- 🎮 [Games in C](https://github.com/KitsuneNoMegami/Games-in-C)  
+  *A collection of simple games (C language)*
+- 🐉 [Donjon & Dragons](https://github.com/KitsuneNoMegami/DnD)  
+  *Console-based role-playing game (Java)*
+- 🧩 [Sudoku Solver](https://github.com/KitsuneNoMegami/Sudoku)  
+  *A simple Sudoku solver (Assembly language)*
+- 👾 [Pac-Man Python](https://github.com/KitsuneNoMegami/Py-man)  
+  *A small Pac-Man clone (Python)*
 
 ## Languages I know 
 <div align="center">

@@ -26,6 +26,7 @@ Hi ! I'm Beth 👋​
 
 *En français :*
 > 🎓 Je suis étudiante en informatique et j'essaie de faire fonctionner mon code et faire survivre mes plantes. Je réussis à faire l'un.
+> 
 > 🎮 Compétences : scrolling infini, suppression de code fonctionnel et faire semblant de lire la documentation.
 
 

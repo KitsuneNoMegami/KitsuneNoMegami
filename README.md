@@ -40,7 +40,7 @@ Hi ! I'm Beth 👋​
   *A simple Sudoku solver (Assembly language)*
 - 🕸️ [Network Simulator](https://github.com/KitsuneNoMegami/Network-Simulator)
   *A Lan network simulation (C language)*
-- [Odie Rebirth of the KPI](https://github.com/KitsuneNoMegami/Odie-Rebirth-of-the-KPI)
+- 💼 [Odie Rebirth of the KPI](https://github.com/KitsuneNoMegami/Odie-Rebirth-of-the-KPI)
   *A game when your goal is to audit an entreprise*
 - 👾 [Pac-Man Python](https://github.com/KitsuneNoMegami/Py-man)  
   *A small Pac-Man clone (Python)*

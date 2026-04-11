@@ -48,7 +48,7 @@ Hi ! I'm Beth 👋​
 ## Languages I know 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=c,cs,bash,html,css,js,py,java,sqlite)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=bash,debian,c,cs,html,css,php,js,typescript,react,bun,py,java,sqlite,net)](https://skillicons.dev)
   </br>
   </br>
   ![Top Langs](https://github-readme-stats-silk-zeta-79.vercel.app/api/top-langs/?username=KitsuneNoMegami&theme=nightowl&layout=compact)
@@ -57,7 +57,7 @@ Hi ! I'm Beth 👋​
 ## Can code with/on
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=linux,idea,vscode,vscodium,git,github,gitlab,godot&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,idea,vscode,vscodium,git,gitlab,github,godot,laravel,bootstrap,androidstudio)](https://skillicons.dev)
 
 </div>
 

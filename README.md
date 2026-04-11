@@ -32,11 +32,15 @@ Hi ! I'm Beth 👋​
 
 ## Projects
 
-- 🧑🏻‍💻 [My Portfolio](https://kitsunenomegami.github.io)
+- 💻 [My Portfolio](https://kitsunenomegami.github.io)
 - 💼 [Odie Rebirth of the KPI](https://github.com/KitsuneNoMegami/Odie-Rebirth-of-the-KPI)  
   *A game where your goal is to audit an entreprise (university project)*
 - 🧘🏻 [Cramé Mais Diplomé](https://github.com/KitsuneNoMegami/Crame-Mais-Diplome)  
   *A game where you have to get your diploma but a good mental health too to win (university project)*
+- 📖 [Archiviste Bien Cablé](https://github.com/KitsuneNoMegami/Architecte-Bien-Cable)
+  *An app to consult and manage books and their authors (university project)*
+- 👾 [Games in C](github.com/KitsuneNoMegami/Games-in-C)
+  *A collection of various games in C*
 - 🧩 [Sudoku Solver](https://github.com/KitsuneNoMegami/Sudoku)  
   *A simple Sudoku solver (Assembly language, university project)*
 

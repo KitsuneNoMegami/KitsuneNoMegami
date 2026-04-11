@@ -22,12 +22,12 @@ Hi ! I'm Beth 👋​
 
 🎓 I'm a French Student trying to make my code work and my plants survive. I'm succeeding at one of them. 
 
-🎮 Skills include: infinite scrolling, deleting code that worked, and pretending to read documentation​
+🎮 Skills include: Deleting code that worked, and pretending to read documentation​
 
 *En français :*
 > 🎓 Je suis étudiante en informatique et j'éssaie de faire fonctionner mon code et faire survivre mes plantes. Je réussis à faire l'un des deux.
 >
-> 🎮 Compétences : scrolling infini, suppression de code fonctionnel et faire semblant de lire la documentation.
+> 🎮 Compétences : Suppression de code fonctionnel et faire semblant de lire la documentation.
 
 
 ## Projects
@@ -37,11 +37,17 @@ Hi ! I'm Beth 👋​
   *A game where your goal is to audit an entreprise (university project)*
 - 🧘🏻 [Cramé Mais Diplomé](https://github.com/KitsuneNoMegami/Crame-Mais-Diplome)  
   *A game where you have to get your diploma but a good mental health too to win (university project)*
+  
 - 📖 [Archiviste Bien Cablé](https://github.com/KitsuneNoMegami/Architecte-Bien-Cable)
+  
   *An app to consult and manage books and their authors (university project)*
+  
 - 👾 [Games in C](github.com/KitsuneNoMegami/Games-in-C)
+  
   *A collection of various games in C*
-- 🧩 [Sudoku Solver](https://github.com/KitsuneNoMegami/Sudoku)  
+  
+- 🧩 [Sudoku Solver](https://github.com/KitsuneNoMegami/Sudoku)
+  
   *A simple Sudoku solver (Assembly language, university project)*
 
 ## Languages I know 

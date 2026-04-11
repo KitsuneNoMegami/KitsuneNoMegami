@@ -25,25 +25,20 @@ Hi ! I'm Beth 👋​
 🎮 Skills include: infinite scrolling, deleting code that worked, and pretending to read documentation​
 
 *En français :*
-> 🎓 Je suis étudiante en informatique et j'essaie de faire fonctionner mon code et faire survivre mes plantes. Je réussis à faire l'un.
-> 
+> 🎓 Je suis étudiante en informatique et j'éssaie de faire fonctionner mon code et faire survivre mes plantes. Je réussis à faire l'un des deux.
+>
 > 🎮 Compétences : scrolling infini, suppression de code fonctionnel et faire semblant de lire la documentation.
 
 
 ## Projects
 
-- 🎮 [Games in C](https://github.com/KitsuneNoMegami/Games-in-C)  
-  *A collection of simple games (C language)*
-- 🐉 [Donjon & Dragons](https://github.com/KitsuneNoMegami/DnD)  
-  *Console-based role-playing game (Java)*
-- 🧩 [Sudoku Solver](https://github.com/KitsuneNoMegami/Sudoku)  
-  *A simple Sudoku solver (Assembly language)*
-- 🕸️ [Network Simulator](https://github.com/KitsuneNoMegami/Network-Simulator)  
-  *A Lan network simulation (C language)*
+- 🧑🏻‍💻 [My Portfolio](https://kitsunenomegami.github.io)
 - 💼 [Odie Rebirth of the KPI](https://github.com/KitsuneNoMegami/Odie-Rebirth-of-the-KPI)  
-  *A game when your goal is to audit an entreprise*
-- 👾 [Pac-Man Python](https://github.com/KitsuneNoMegami/Py-man)  
-  *A small Pac-Man clone (Python)*
+  *A game where your goal is to audit an entreprise (university project)*
+- 🧘🏻 [Cramé Mais Diplomé](https://github.com/KitsuneNoMegami/Crame-Mais-Diplome)  
+  *A game where you have to get your diploma but a good mental health too to win (university project)*
+- 🧩 [Sudoku Solver](https://github.com/KitsuneNoMegami/Sudoku)  
+  *A simple Sudoku solver (Assembly language, university project)*
 
 ## Languages I know 
 <div align="center">

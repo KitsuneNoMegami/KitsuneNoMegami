@@ -56,7 +56,7 @@ Hi ! I'm Beth 👋​
   [![My Skills](https://skillicons.dev/icons?i=bash,debian,c,cs,html,css,php,js,typescript,react,bun,py,java,sqlite,net)](https://skillicons.dev)
   </br>
   </br>
-  ![Top Langs](https://github-readme-stats-silk-zeta-79.vercel.app/api/top-langs/?username=KitsuneNoMegami&theme=nightowl&layout=compact)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=KitsuneNoMegami&layout=compact&langs_count=4&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=KitsuneNoMegami&layout=compact&langs_count=4&theme=ambient_gradient)
 </div>
 
 ## Can code with/on

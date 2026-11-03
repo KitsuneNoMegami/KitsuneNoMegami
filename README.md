@@ -32,7 +32,7 @@ Hi ! I'm Beth 👋​
 
 ## Projects
 
-- 💻 [My Portfolio](https://kitsunenomegami.github.io)
+- 💻 [My Portfolio](elisabethm.vercel.app)
 - 💼 [Odie Rebirth of the KPI](https://github.com/KitsuneNoMegami/Odie-Rebirth-of-the-KPI)  
   *A game where your goal is to audit an entreprise (university project)*
 - 🧘🏻 [Cramé Mais Diplomé](https://github.com/KitsuneNoMegami/Crame-Mais-Diplome)  
